@@ -1,7 +1,7 @@
 ---
 title: Srutee Rout
 role: Researcher of Artificial Intelligence
-avatar_filename: profile.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
